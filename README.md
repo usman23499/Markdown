@@ -1,6 +1,7 @@
 # Markdown
 # Usman
 ## My name is
-""Usman""
-"Usman"
+**Usman**
+*Usman*
 ~no~
+
